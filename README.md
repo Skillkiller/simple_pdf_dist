@@ -1,0 +1,3 @@
+This repository contains just dist files from a react project. Only for demonstration purposes...
+
+Will be deleted again.
